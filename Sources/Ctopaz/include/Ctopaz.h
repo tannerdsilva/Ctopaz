@@ -4,6 +4,7 @@
 #include "hex.h"
 #include <stdio.h>
 #include "bolt11.h"
+#include "amount.h"
 
 #define  MAX_BLOCKS 1024
 
