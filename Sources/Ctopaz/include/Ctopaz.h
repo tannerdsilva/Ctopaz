@@ -3,6 +3,7 @@
 
 #include "hex.h"
 #include <stdio.h>
+#include "bolt11.h"
 
 #define  MAX_BLOCKS 1024
 
