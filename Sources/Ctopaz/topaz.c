@@ -1,9 +1,3 @@
-//
-//  damus.c
-//  damus
-//
-//  Created by William Casarin on 2022-10-17.
-//
 
 #include "topaz.h"
 #include "bolt11.h"
