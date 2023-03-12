@@ -5,7 +5,7 @@
 //  Created by William Casarin on 2022-10-17.
 //
 
-#include "damus.h"
+#include "topaz.h"
 #include "bolt11.h"
 #include <stdlib.h>
 #include <string.h>
