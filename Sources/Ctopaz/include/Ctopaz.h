@@ -5,6 +5,7 @@
 #include <stdio.h>
 #include "bolt11.h"
 #include "amount.h"
+#include "hash_u5.h"
 
 #define  MAX_BLOCKS 1024
 
